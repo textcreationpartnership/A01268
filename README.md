@@ -36,80 +36,20 @@ This keyboarded and encoded edition of the
 ##Content Summary##
 
 #####Front#####
-A boke made by Iohn Frith prisoner in the tower of London / answeringe vnto M mores lettur which he 
+
 1. ¶The preface of this boke•
 
 #####Body#####
 
 1. ¶The fondacion of that lytle treatise was that yt ys non article of our fayth necessarye to be belevyd vnder payne of dampnacion / that the sacrament shuld be the naturall bodie of christe: which thynge ys proved / on this maner.
 
-    _ ¶Lett a man therfore examyne hym sellfe / and so let hym eate of the brede / and drinke of the cup.
-
-    _ ¶An Epitome and short rehersall of all this boke shewynge in what poyntes Frith dissenteth from our prelates.
-
-    _ The seconde poynte wherin Frith dissenteth from oure prelates and their proctoure.
-
-    _ ¶The third poynt wherin Frith dissenteth from your prelates and their proctoure.
-
-    _ ¶ They examined me but of two articles whyche are these.
-
-    _ ¶The cause why I can not beleue there opinion of transmutacion is this.
-
 1. ¶ Thus begynnyth the preface of master Mores boke.
-
-    _ ¶Lett a man therfore examyne hym sellfe / and so let hym eate of the brede / and drinke of the cup.
-
-    _ ¶An Epitome and short rehersall of all this boke shewynge in what poyntes Frith dissenteth from our prelates.
-
-    _ The seconde poynte wherin Frith dissenteth from oure prelates and their proctoure.
-
-    _ ¶The third poynt wherin Frith dissenteth from your prelates and their proctoure.
-
-    _ ¶ They examined me but of two articles whyche are these.
-
-    _ ¶The cause why I can not beleue there opinion of transmutacion is this.
 
 1. ¶The mynde and exposicyon of the olde Doctours vppon the wordes of Christes maundey.
 
-    _ ¶Lett a man therfore examyne hym sellfe / and so let hym eate of the brede / and drinke of the cup.
-
-    _ ¶An Epitome and short rehersall of all this boke shewynge in what poyntes Frith dissenteth from our prelates.
-
-    _ The seconde poynte wherin Frith dissenteth from oure prelates and their proctoure.
-
-    _ ¶The third poynt wherin Frith dissenteth from your prelates and their proctoure.
-
-    _ ¶ They examined me but of two articles whyche are these.
-
-    _ ¶The cause why I can not beleue there opinion of transmutacion is this.
-
 1. ¶The consecracyon of the Sacrament.
 
-    _ ¶Lett a man therfore examyne hym sellfe / and so let hym eate of the brede / and drinke of the cup.
-
-    _ ¶An Epitome and short rehersall of all this boke shewynge in what poyntes Frith dissenteth from our prelates.
-
-    _ The seconde poynte wherin Frith dissenteth from oure prelates and their proctoure.
-
-    _ ¶The third poynt wherin Frith dissenteth from your prelates and their proctoure.
-
-    _ ¶ They examined me but of two articles whyche are these.
-
-    _ ¶The cause why I can not beleue there opinion of transmutacion is this.
-
 1. ¶Doctoure barnes did graciouslye escarpe master mores hādes
-
-    _ ¶Lett a man therfore examyne hym sellfe / and so let hym eate of the brede / and drinke of the cup.
-
-    _ ¶An Epitome and short rehersall of all this boke shewynge in what poyntes Frith dissenteth from our prelates.
-
-    _ The seconde poynte wherin Frith dissenteth from oure prelates and their proctoure.
-
-    _ ¶The third poynt wherin Frith dissenteth from your prelates and their proctoure.
-
-    _ ¶ They examined me but of two articles whyche are these.
-
-    _ ¶The cause why I can not beleue there opinion of transmutacion is this.
 
 1. The paschal lambe and oure sacrament are here compared to gether.
 
@@ -121,33 +61,9 @@ A boke made by Iohn Frith prisoner in the tower of London / answeringe vnto M mo
 
     _ ¶The third poynt wherin Frith dissenteth from your prelates and their proctoure.
 
-    _ ¶ They examined me but of two articles whyche are these.
-
-    _ ¶The cause why I can not beleue there opinion of transmutacion is this.
-
 1. ¶The conclusion of this treatise.
 
-    _ ¶Lett a man therfore examyne hym sellfe / and so let hym eate of the brede / and drinke of the cup.
-
-    _ ¶An Epitome and short rehersall of all this boke shewynge in what poyntes Frith dissenteth from our prelates.
-
-    _ The seconde poynte wherin Frith dissenteth from oure prelates and their proctoure.
-
-    _ ¶The third poynt wherin Frith dissenteth from your prelates and their proctoure.
-
-    _ ¶ They examined me but of two articles whyche are these.
-
-    _ ¶The cause why I can not beleue there opinion of transmutacion is this.
-
 1. ¶The articles wherfore Iohan Frith died which he wrote in newgate the .23. •aye of Iune / the yere of oure Lorde 1533.
-
-    _ ¶Lett a man therfore examyne hym sellfe / and so let hym eate of the brede / and drinke of the cup.
-
-    _ ¶An Epitome and short rehersall of all this boke shewynge in what poyntes Frith dissenteth from our prelates.
-
-    _ The seconde poynte wherin Frith dissenteth from oure prelates and their proctoure.
-
-    _ ¶The third poynt wherin Frith dissenteth from your prelates and their proctoure.
 
     _ ¶ They examined me but of two articles whyche are these.
 
@@ -189,32 +105,28 @@ There are 1819 **ommitted** fragments!
 |6.|__edition__|1||
 |7.|__editionStmt__|1||
 |8.|__editorialDecl__|1||
-|9.|__encodingDesc__|1||
-|10.|__extent__|2||
-|11.|__fileDesc__|1||
-|12.|__idno__|6| @__type__ (6) : DLPS (1), STC (2), EEBO-CITATION (1), PROQUEST (1), VID (1)|
-|13.|__keywords__|1| @__scheme__ (1) : http://authorities.loc.gov/ (1)|
-|14.|__label__|5||
-|15.|__langUsage__|1||
-|16.|__language__|1| @__ident__ (1) : eng (1)|
-|17.|__listPrefixDef__|1||
-|18.|__note__|8||
-|19.|__notesStmt__|2||
-|20.|__p__|11||
-|21.|__prefixDef__|2| @__ident__ (2) : tcp (1), char (1)  •  @__matchPattern__ (2) : ([0-9\-]+):([0-9IVX]+) (1), (.+) (1)  •  @__replacementPattern__ (2) : http://eebo.chadwyck.com/downloadtiff?vid=$1&page=$2 (1), https://raw.githubusercontent.com/textcreationpartnership/Texts/master/tcpchars.xml#$1 (1)|
-|22.|__profileDesc__|1||
-|23.|__projectDesc__|1||
-|24.|__pubPlace__|2||
-|25.|__publicationStmt__|2||
-|26.|__publisher__|2||
-|27.|__ref__|2| @__target__ (2) : https://creativecommons.org/publicdomain/zero/1.0/ (1), http://www.textcreationpartnership.org/docs/. (1)|
-|28.|__revisionDesc__|1||
-|29.|__seriesStmt__|1||
-|30.|__sourceDesc__|1||
-|31.|__term__|2||
-|32.|__textClass__|1||
-|33.|__title__|5||
-|34.|__titleStmt__|2||
+|9.|__extent__|2||
+|10.|__idno__|6| @__type__ (6) : DLPS (1), STC (2), EEBO-CITATION (1), PROQUEST (1), VID (1)|
+|11.|__keywords__|1| @__scheme__ (1) : http://authorities.loc.gov/ (1)|
+|12.|__label__|5||
+|13.|__langUsage__|1||
+|14.|__language__|1| @__ident__ (1) : eng (1)|
+|15.|__listPrefixDef__|1||
+|16.|__note__|8||
+|17.|__notesStmt__|2||
+|18.|__p__|11||
+|19.|__prefixDef__|2| @__ident__ (2) : tcp (1), char (1)  •  @__matchPattern__ (2) : ([0-9\-]+):([0-9IVX]+) (1), (.+) (1)  •  @__replacementPattern__ (2) : http://eebo.chadwyck.com/downloadtiff?vid=$1&page=$2 (1), https://raw.githubusercontent.com/textcreationpartnership/Texts/master/tcpchars.xml#$1 (1)|
+|20.|__projectDesc__|1||
+|21.|__pubPlace__|2||
+|22.|__publicationStmt__|2||
+|23.|__publisher__|2||
+|24.|__ref__|2| @__target__ (2) : https://creativecommons.org/publicdomain/zero/1.0/ (1), http://www.textcreationpartnership.org/docs/. (1)|
+|25.|__seriesStmt__|1||
+|26.|__sourceDesc__|1||
+|27.|__term__|2||
+|28.|__textClass__|1||
+|29.|__title__|5||
+|30.|__titleStmt__|2||
 
 
 ###Text Tag Usage###
@@ -223,23 +135,20 @@ There are 1819 **ommitted** fragments!
 |---|---|---|---|
 |1.|__abbr__|54||
 |2.|__am__|127||
-|3.|__back__|1||
-|4.|__body__|1||
-|5.|__closer__|1||
-|6.|__desc__|1819||
-|7.|__div__|17| @__type__ (17) : title_page (1), preface (1), section (2), preface_and_commentary (1), text_and_commentary (3), part (6), conclusion (1), articles (1), colophon (1)|
-|8.|__ex__|127||
-|9.|__expan__|127||
-|10.|__front__|1||
-|11.|__g__|3854| @__ref__ (3854) : char:EOLhyphen (641), char:cmbAbbrStroke (1846), char:EOLunhyphen (1240), char:abur (93), char:abque (30), char:abquam (4)|
-|12.|__gap__|1819| @__reason__ (1819) : illegible (1819)  •  @__resp__ (1819) : #PDCC (1819)  •  @__extent__ (1819) : 1 letter (1710), 2 letters (94), 3 letters (7), 1 word (7), 4 letters (1)|
-|13.|__head__|15||
-|14.|__hi__|581| @__rend__ (526) : sup (526)|
-|15.|__item__|3||
-|16.|__list__|1||
-|17.|__milestone__|17| @__type__ (17) : tcpmilestone (17)  •  @__unit__ (17) : unspecified (17)  •  @__n__ (17) : 3 (3), 1 (3), 4 (1), 5 (2), 6 (1), 7 (1), 8 (1), 9 (1), 10 (1), 11 (1), 2 (2)|
-|18.|__note__|257| @__place__ (257) : margin (257)  •  @__n__ (1) : 1 (1)|
-|19.|__p__|214||
-|20.|__pb__|176| @__facs__ (176) : tcp:5963:1 (2), tcp:5963:2 (2), tcp:5963:3 (2), tcp:5963:4 (2), tcp:5963:5 (2), tcp:5963:6 (2), tcp:5963:7 (2), tcp:5963:8 (2), tcp:5963:9 (2), tcp:5963:10 (2), tcp:5963:11 (2), tcp:5963:12 (2), tcp:5963:13 (2), tcp:5963:14 (2), tcp:5963:15 (2), tcp:5963:16 (2), tcp:5963:17 (2), tcp:5963:18 (2), tcp:5963:19 (2), tcp:5963:20 (2), tcp:5963:21 (2), tcp:5963:22 (2), tcp:5963:23 (2), tcp:5963:24 (2), tcp:5963:25 (2), tcp:5963:26 (2), tcp:5963:27 (2), tcp:5963:28 (2), tcp:5963:29 (2), tcp:5963:30 (2), tcp:5963:31 (2), tcp:5963:32 (2), tcp:5963:33 (2), tcp:5963:34 (2), tcp:5963:35 (2), tcp:5963:36 (2), tcp:5963:37 (2), tcp:5963:38 (2), tcp:5963:39 (2), tcp:5963:40 (2), tcp:5963:41 (2), tcp:5963:42 (2), tcp:5963:43 (2), tcp:5963:44 (2), tcp:5963:45 (2), tcp:5963:46 (2), tcp:5963:47 (2), tcp:5963:48 (2), tcp:5963:49 (2), tcp:5963:50 (2), tcp:5963:51 (2), tcp:5963:52 (2), tcp:5963:53 (2), tcp:5963:54 (2), tcp:5963:55 (2), tcp:5963:56 (2), tcp:5963:57 (2), tcp:5963:58 (2), tcp:5963:59 (2), tcp:5963:60 (2), tcp:5963:61 (2), tcp:5963:62 (2), tcp:5963:63 (2), tcp:5963:64 (2), tcp:5963:65 (2), tcp:5963:66 (2), tcp:5963:67 (2), tcp:5963:68 (2), tcp:5963:69 (2), tcp:5963:70 (2), tcp:5963:71 (2), tcp:5963:72 (2), tcp:5963:73 (2), tcp:5963:74 (2), tcp:5963:75 (2), tcp:5963:76 (2), tcp:5963:77 (2), tcp:5963:78 (2), tcp:5963:79 (2), tcp:5963:80 (2), tcp:5963:81 (2), tcp:5963:82 (2), tcp:5963:83 (2), tcp:5963:84 (2), tcp:5963:85 (2), tcp:5963:86 (2), tcp:5963:87 (2), tcp:5963:88 (2)  •  @__rendition__ (6) : simple:additions (6)|
-|21.|__seg__|9| @__rend__ (9) : decorInit (9)|
-|22.|__trailer__|1||
+|3.|__closer__|1||
+|4.|__desc__|1819||
+|5.|__div__|17| @__type__ (17) : title_page (1), preface (1), section (2), preface_and_commentary (1), text_and_commentary (3), part (6), conclusion (1), articles (1), colophon (1)|
+|6.|__ex__|127||
+|7.|__expan__|127||
+|8.|__g__|3854| @__ref__ (3854) : char:EOLhyphen (641), char:cmbAbbrStroke (1846), char:EOLunhyphen (1240), char:abur (93), char:abque (30), char:abquam (4)|
+|9.|__gap__|1819| @__reason__ (1819) : illegible (1819)  •  @__resp__ (1819) : #PDCC (1819)  •  @__extent__ (1819) : 1 letter (1710), 2 letters (94), 3 letters (7), 1 word (7), 4 letters (1)|
+|10.|__head__|15||
+|11.|__hi__|581| @__rend__ (526) : sup (526)|
+|12.|__item__|3||
+|13.|__list__|1||
+|14.|__milestone__|17| @__type__ (17) : tcpmilestone (17)  •  @__unit__ (17) : unspecified (17)  •  @__n__ (17) : 3 (3), 1 (3), 4 (1), 5 (2), 6 (1), 7 (1), 8 (1), 9 (1), 10 (1), 11 (1), 2 (2)|
+|15.|__note__|257| @__place__ (257) : margin (257)  •  @__n__ (1) : 1 (1)|
+|16.|__p__|214||
+|17.|__pb__|176| @__facs__ (176) : tcp:5963:1 (2), tcp:5963:2 (2), tcp:5963:3 (2), tcp:5963:4 (2), tcp:5963:5 (2), tcp:5963:6 (2), tcp:5963:7 (2), tcp:5963:8 (2), tcp:5963:9 (2), tcp:5963:10 (2), tcp:5963:11 (2), tcp:5963:12 (2), tcp:5963:13 (2), tcp:5963:14 (2), tcp:5963:15 (2), tcp:5963:16 (2), tcp:5963:17 (2), tcp:5963:18 (2), tcp:5963:19 (2), tcp:5963:20 (2), tcp:5963:21 (2), tcp:5963:22 (2), tcp:5963:23 (2), tcp:5963:24 (2), tcp:5963:25 (2), tcp:5963:26 (2), tcp:5963:27 (2), tcp:5963:28 (2), tcp:5963:29 (2), tcp:5963:30 (2), tcp:5963:31 (2), tcp:5963:32 (2), tcp:5963:33 (2), tcp:5963:34 (2), tcp:5963:35 (2), tcp:5963:36 (2), tcp:5963:37 (2), tcp:5963:38 (2), tcp:5963:39 (2), tcp:5963:40 (2), tcp:5963:41 (2), tcp:5963:42 (2), tcp:5963:43 (2), tcp:5963:44 (2), tcp:5963:45 (2), tcp:5963:46 (2), tcp:5963:47 (2), tcp:5963:48 (2), tcp:5963:49 (2), tcp:5963:50 (2), tcp:5963:51 (2), tcp:5963:52 (2), tcp:5963:53 (2), tcp:5963:54 (2), tcp:5963:55 (2), tcp:5963:56 (2), tcp:5963:57 (2), tcp:5963:58 (2), tcp:5963:59 (2), tcp:5963:60 (2), tcp:5963:61 (2), tcp:5963:62 (2), tcp:5963:63 (2), tcp:5963:64 (2), tcp:5963:65 (2), tcp:5963:66 (2), tcp:5963:67 (2), tcp:5963:68 (2), tcp:5963:69 (2), tcp:5963:70 (2), tcp:5963:71 (2), tcp:5963:72 (2), tcp:5963:73 (2), tcp:5963:74 (2), tcp:5963:75 (2), tcp:5963:76 (2), tcp:5963:77 (2), tcp:5963:78 (2), tcp:5963:79 (2), tcp:5963:80 (2), tcp:5963:81 (2), tcp:5963:82 (2), tcp:5963:83 (2), tcp:5963:84 (2), tcp:5963:85 (2), tcp:5963:86 (2), tcp:5963:87 (2), tcp:5963:88 (2)  •  @__rendition__ (6) : simple:additions (6)|
+|18.|__seg__|9| @__rend__ (9) : decorInit (9)|
+|19.|__trailer__|1||
